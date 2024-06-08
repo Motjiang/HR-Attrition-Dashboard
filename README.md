@@ -21,7 +21,7 @@ The project includes multiple dashboards with various visual components:
 
 
 ## Data Source
-The data for this project is sourced from the organization's HR database, encompassing detailed records of employee demographics, job roles, performance ratings, work-life balance, satisfaction levels, and attrition status.
+The data for this project is sourced from MeriSkills internShip, encompassing detailed records of employee demographics, job roles, performance ratings, work-life balance, satisfaction levels, and attrition status.
 
 ## Tools
 The dashboards were created using the following tools:
