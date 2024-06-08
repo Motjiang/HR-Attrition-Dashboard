@@ -19,7 +19,6 @@ The project includes multiple dashboards with various visual components:
 ![Screenshot 2024-06-01 101802](https://github.com/Motjiang/HR-Attrition-Dashboard/assets/114883452/06bd4569-59cd-4dfc-9249-025e83ae3aa7)
 
 
-![Screenshot 2024-06-01 101831](https://github.com/Motjiang/HR-Attrition-Dashboard/assets/114883452/46d953d0-b58c-4128-a1fa-aba64aa51eb9)
 
 ## Data Source
 The data for this project is sourced from the organization's HR database, encompassing detailed records of employee demographics, job roles, performance ratings, work-life balance, satisfaction levels, and attrition status.
